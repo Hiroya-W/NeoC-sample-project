@@ -1,5 +1,9 @@
 # NeoC-sample-project
 
+NeoCライブラリをCMake化した[Hiroya-W/NeoC](https://github.com/Hiroya-W/NeoC/tree/7-use-cmake)をCMakeから利用するサンプルプロジェクト
+
+[Hiroya-W/NeoC](https://github.com/Hiroya-W/NeoC) forked from [RotationE/NeoC](https://github.com/RotationE/NeoC)
+
 ## build
 
 buildフォルダを作成する。
