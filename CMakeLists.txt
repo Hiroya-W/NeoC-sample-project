@@ -15,8 +15,8 @@ endif()
 include(FetchContent)
 FetchContent_Declare(
     NeoC
-    GIT_REPOSITORY https://github.com/Hiroya-W/NeoC.git
-    GIT_TAG        origin/7-use-cmake
+    GIT_REPOSITORY https://github.com/RotationE/NeoC.git
+    GIT_TAG        origin/main
 )
 
 FetchContent_GetProperties(NeoC)
