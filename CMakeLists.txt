@@ -20,7 +20,7 @@ FetchContent_Declare(
 )
 
 FetchContent_GetProperties(NeoC)
-if(NOT NeoC_POPULATED)
+if(NOT neoc_POPULATED)
     FetchContent_Populate(NeoC)
     add_subdirectory(${neoc_SOURCE_DIR} ${neoc_BINARY_DIR})
 endif()
